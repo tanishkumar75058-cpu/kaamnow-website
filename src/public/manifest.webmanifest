@@ -1,0 +1,25 @@
+{
+  "name": "Kaamnow - Trusted Local Services in Hapur",
+  "short_name": "Kaamnow",
+  "description": "Find trusted plumbers, electricians, AC repair technicians, carpenters, and painters in Hapur.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1E3A8A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/kaamnow-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/kaamnow-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
